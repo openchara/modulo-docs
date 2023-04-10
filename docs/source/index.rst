@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to CharaGame's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**CharaGame** (/Chara'Game/) is a work-in-progress open source game console.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`api` section for the API, and check out the _`specs <https://docs.google.com/document/d/10dDdrLYjLU0MHTm9aKv4z12S43vRUBYJQVsVxZigzbU/edit?usp=sharing>`_ in Google Docs
 
 .. note::
 
@@ -18,5 +14,4 @@ Contents
 
 .. toctree::
 
-   usage
    api
