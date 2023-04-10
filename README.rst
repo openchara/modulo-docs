@@ -1,3 +1,3 @@
 CharaGame documentation
 =======================================
-`charagame.readthedocs.io`_
+charagame.readthedocs.io_
