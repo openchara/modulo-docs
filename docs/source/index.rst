@@ -15,6 +15,6 @@ Contents
 .. toctree::
 
    api
-   instances:
+   instances/
       requirements
       design
