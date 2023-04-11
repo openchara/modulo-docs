@@ -1,7 +1,7 @@
 Welcome to CharaGame's documentation!
 ===================================
 
-**CharaGame** (/Chara'Game/) is a work-in-progress open source game console.
+**CharaGame** is a work-in-progress open source game console.
 
 Check out the :doc:`api` section for the API, and check out the `specs <https://docs.google.com/document/d/10dDdrLYjLU0MHTm9aKv4z12S43vRUBYJQVsVxZigzbU/edit?usp=sharing>`_ in Google Docs
 
