@@ -1,4 +1,4 @@
 API
 ===
 
-`modulo::getStore(int dataBank, string label, StoreMode mode)`
+```modulo::getStore(int dataBank, string label, StoreMode mode)```
