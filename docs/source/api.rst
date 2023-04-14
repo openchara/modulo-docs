@@ -1,7 +1,4 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+`modulo::getStore(int dataBank, string label, StoreMode mode)`
