@@ -2,6 +2,7 @@ API
 ===
 
 ``modulo::getStore(int dataBank, string|int label, string mode): Store``
+
 Arguments
 #########
 ``dataBank``: The databank that the store is in.
