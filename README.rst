@@ -1,4 +1,4 @@
-CharaGame documentation
+Modulo documentation
 =======================================
 charagame.readthedocs.io_
 
